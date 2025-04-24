@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/napoleonback.iml" filepath="$PROJECT_DIR$/napoleonback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NapoleonTP_JSON_Serveur_Back.iml" filepath="$PROJECT_DIR$/NapoleonTP_JSON_Serveur_Back.iml" />
     </modules>
   </component>
 </project>

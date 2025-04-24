@@ -1,0 +1,135 @@
+{
+  "bataille": [
+    {
+      "id": "1",
+      "nom": "Austerlitz",
+      "date": "2 décembre 1805",
+      "lieu": "Austerlitz",
+      "img": "https://histoire-image.org/sites/default/files/styles/260x175_crop/public/2021-11/vers25_gerard_001f_0.jpg?itok=RrTiT3d8",
+      "description": {
+        "dateLieu" : "2 décembre 1805 à Austerlitz [actuellement Slavkov], à 8 km à l’est de Brünn en Moravie [de nos jours Brno, en République Tchèque].",
+        "forcePresentes" : "Grande Armée de 73 100 hommes, sous le commandement de l’Empereur Napoléon 1er.  \n    Coalition austro-russe de 85 700 hommes, sous le commandement du tsar Alexandre Ier, du général Mikhaïl Illarionovitch Golenichtchev-Koutouzov et du général Franz von Weyrother.",
+        "pertes" : "Grande Armée : 1 500 tués, 7 000 blessés, 1 drapeau  \n    Armée austro-russe : 16 000 hommes tués, disparus ou blessés ; 11 000 prisonniers ; toute l’artillerie ; 45 drapeaux"
+      },
+      "victoire": true
+    },
+    {
+      "id": "2",
+      "nom": "Ulm",
+      "date": "15 octobre 1805",
+      "lieu": "Bade-Wurtemberg",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Charles_Th%C3%A9venin_-_Reddition_de_la_ville_d%27Ulm.jpg/1200px-Charles_Th%C3%A9venin_-_Reddition_de_la_ville_d%27Ulm.jpg",
+      "description": {
+        "dateLieu" : "2 décembre 1805 à Austerlitz [actuellement Slavkov], à 8 km à l’est de Brünn en Moravie [de nos jours Brno, en République Tchèque].",
+        "forcePresentes" : "aaaaaaaaaaaGrande Armée de 73 100 hommes, sous le commandement de l’Empereur Napoléon 1er.  \n    Coalition austro-russe de 85 700 hommes, sous le commandement du tsar Alexandre Ier, du général Mikhaïl Illarionovitch Golenichtchev-Koutouzov et du général Franz von Weyrother.",
+        "pertes" : "Grande Armée : 1 500 tués, 7 000 blessés, 1 drapeau  \n    Armée austro-russe : 16 000 hommes tués, disparus ou blessés ; 11 000 prisonniers ; toute l’artillerie ; 45 drapeaux"
+      },
+      "victoire": true
+    },
+    {
+      "id": "3",
+      "nom": "Lodi",
+      "date": "10 may 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": {
+        "dateLieu" : "2 déceaaaaaaaaaaaaaaaaaaaambre 1805 à Austerlitz [actuellement Slavkov], à 8 km à l’est de Brünn en Moravie [de nos jours Brno, en République Tchèque].",
+        "forcePresentes" : "Grande Armée de 73 100 hommes, sous le commandement de l’Empereur Napoléon 1er.  \n    Coalition austro-russe de 85 700 hommes, sous le commandement du tsar Alexandre Ier, du général Mikhaïl Illarionovitch Golenichtchev-Koutouzov et du général Franz von Weyrother.",
+        "pertes" : "Grande Armée : 1 500 tués, 7 000 blessés, 1 drapeau  \n    Armée austro-russe : 16 000 hommes tués, disparus ou blessés ; 11 000 prisonniers ; toute l’artillerie ; 45 drapeaux"
+      },
+      "victoire": true
+    },
+    {
+      "id": "4",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    },
+    {
+      "id": "5",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    },
+    {
+      "id": "6",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    },
+    {
+      "id": "7",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    },
+    {
+      "id": "8",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    },
+    {
+      "id": "9",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    },
+    {
+      "id": "10",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    },
+    {
+      "id": "11",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    },
+    {
+      "id": "12",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    },
+    {
+      "id": "13",
+      "nom": "Lodi",
+      "date": "10 mai 1796",
+      "lieu": "Austerlitz",
+      "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
+      "description": "",
+      "victoire": true
+    }
+
+
+  ]
+}
