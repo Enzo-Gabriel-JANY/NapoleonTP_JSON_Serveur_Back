@@ -10,7 +10,7 @@
         "dateLieu" : "2 décembre 1805 à Austerlitz [actuellement Slavkov], à 8 km à l’est de Brünn en Moravie [de nos jours Brno, en République Tchèque].",
         "forcePresentes" : "Grande Armée de 73 100 hommes, sous le commandement de l’Empereur Napoléon 1er.  \n    Coalition austro-russe de 85 700 hommes, sous le commandement du tsar Alexandre Ier, du général Mikhaïl Illarionovitch Golenichtchev-Koutouzov et du général Franz von Weyrother.",
         "pertes" : "Grande Armée : 1 500 tués, 7 000 blessés, 1 drapeau  \n    Armée austro-russe : 16 000 hommes tués, disparus ou blessés ; 11 000 prisonniers ; toute l’artillerie ; 45 drapeaux",
-        "situationGenerale" : "aaaaaaaaaaaaaaaa"
+        "situationGenerale" : "Après avoir détruit à Ulm , en octobre 1805, la principale armée autrichienne, Napoléon s’est emparé de Vienne [Wien] à la mi-novembre, sans que le général russe Mikhaïl Illarionovitch Golenichtchev-Koutouzov (Михаил Илларионович Голенищев-Кутузов) ne tente de défendre la ville, préférant battre en retraite vers Olmutz [Olomouc], au devant de renforts russes et autrichiens.\n\nTandis que son adversaire refait ses forces, l’Empereur, au contraire, voit ses effectifs fondre. Il a dû en effet envoyer Michel Ney et Auguste Frédéric Louis Viesse de Marmont dans le Tyrol pour prévenir un retour offensif de l’archiduc Charles Louis d’Autriche, duc de Teschen, précédemment aux prise avec André Masséna en Italie, et se priver de Charles Augereau pour surveiller l’archiduc Jean qui s’occupe à lever des troupes en Bohême. Jean-Baptiste Bernadotte est stationné dans cette même province tandis que Louis-Nicolas Davout est positionné à Presbourg [Bratislava]. Les deux derniers seront rappelés juste avant la bataille.\n\nFin novembre, Napoléon est déjà en large infériorité numérique (50 000 hommes contre 86 000) et a tout lieu de craindre que celle-ci ne s’aggrave, d’autant qu’il n’ignore pas que la Prusse n’attend que l’occasion d’entrer à son tour dans la coalition.\n\nIl lui faut une bataille. L’Empereur va donc tout faire pour exagérer encore sa faiblesse aux yeux des Austro-russes et les amener à lui offrir prématurément l’engagement décisif dont il a besoin. Pour cela, il n’hésite pas à se lancer dans une véritable campagne d’intoxication, engageant de fausses démarches préliminaires en vue de négociations, ordonnant à ses troupes de simuler des échecs lors d’engagements partiels et retardant au maximum la concentration de ses différents corps d’armée."
       },
       "victoire": true
     },
@@ -21,9 +21,11 @@
       "lieu": "Bade-Wurtemberg",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Charles_Th%C3%A9venin_-_Reddition_de_la_ville_d%27Ulm.jpg/1200px-Charles_Th%C3%A9venin_-_Reddition_de_la_ville_d%27Ulm.jpg",
       "description": {
-        "dateLieu" : "2 décembre 1805 à Austerlitz [actuellement Slavkov], à 8 km à l’est de Brünn en Moravie [de nos jours Brno, en République Tchèque].",
-        "forcePresentes" : "Grande Armée de 73 100 hommes, sous le commandement de l’Empereur Napoléon 1er.  \n    Coalition austro-russe de 85 700 hommes, sous le commandement du tsar Alexandre Ier, du général Mikhaïl Illarionovitch Golenichtchev-Koutouzov et du général Franz von Weyrother.",
-        "pertes" : "Grande Armée : 1 500 tués, 7 000 blessés, 1 drapeau  \n    Armée austro-russe : 16 000 hommes tués, disparus ou blessés ; 11 000 prisonniers ; toute l’artillerie ; 45 drapeaux"
+        "dateLieu" : "15 au 20 octobre 1805 à Ulm, en Bade-Wurtemberg, à la frontière avec la Bavière.\n",
+        "forcePresentes" : "Armée française (80 000 hommes), sous le commandement de l'Empereur Napoléon 1er.  \nArmée autrichienne (40 000 hommes), sous les ordres du Prince Jean de Liechtenstein et du général Karl Mack von Leiberich.  ",
+        "pertes" : "Armée française : 500 hommes tués, 1 000 blessés  \nArmée autrichienne : 4 000 hommes tués, 25 000 prisonniers  "
+
+
       },
       "victoire": true
     },
@@ -34,9 +36,10 @@
       "lieu": "Austerlitz",
       "img": "https://fr.muzeo.com/sites/default/files/styles/image_facebook_repro/public/oeuvres/peinture/patrimoine/la_bataille_de_lodi_le_10_mai52311.jpg?itok=AptE-Ijw",
       "description": {
-        "dateLieu" : "2 décembre 1805 à Austerlitz [actuellement Slavkov], à 8 km à l’est de Brünn en Moravie [de nos jours Brno, en République Tchèque].",
-        "forcePresentes" : "Grande Armée de 73 100 hommes, sous le commandement de l’Empereur Napoléon 1er.  \n    Coalition austro-russe de 85 700 hommes, sous le commandement du tsar Alexandre Ier, du général Mikhaïl Illarionovitch Golenichtchev-Koutouzov et du général Franz von Weyrother.",
-        "pertes" : "Grande Armée : 1 500 tués, 7 000 blessés, 1 drapeau  \n    Armée austro-russe : 16 000 hommes tués, disparus ou blessés ; 11 000 prisonniers ; toute l’artillerie ; 45 drapeaux"
+        "dateLieu" : "10 mai 1796 au pont de Lodi, sur la rivière Adda, au sud-est de Milan (Lombardie, Italie).",
+        "forcePresentes" : "Armée française (17 500 hommes) sous le commandement du général Napoléon Bonaparte. \nArrière-garde de l’armée autrichienne (9 500 hommes) commandée par le général Karl Philipp Sebottendorf. ",
+        "pertes" : "Armée française : autour de 1 000 tués ou blessés. \nArmée autrichienne : de 315 (selon les sources autrichiennes) à 1 100 (selon les sources françaises) morts ou blessés. ",
+        "situationGenerale" : "Situation générale\nNapoléon Bonaparte, après avoir passé le Pô à Plaisance [Piacenza], remonte la rive droite de l’Adda, un de ses affluents du nord, à la recherche de la faille dans le dispositif adverse qui lui permettra de franchir ce nouveau cours d’eau et de poursuivre l’ennemi.\n\nLe général en chef autrichien Johann Pierre de Beaulieu-Marconnay, surpris par un passage qui s’est effectué 80 kilomètres en aval de ses prévisions, vient en effet d’évacuer Milan [Milano] pour faire retraite sur Crémone [Cremona].\n\nBonaparte envisage dans un premier temps de traverser l’Adda à Pizzighettone [45.18647, 9.77955] :\n\nLe pont sur la rivière Adda à Pizzighettone\nLe pont sur la rivière Adda à Pizzighettone\nIl y renonce toutefois, la cité étant trop bien défendue.\n\nIl teste alors les forces de l’arrière-garde autrichienne aux environs  de Zorlesco  [45.19917, 9.61636].\n\nPuis Napoléon Bonaparte et son chef d'état-major le général Louis-Alexandre Berthier remontent le cours de l'Adda vers le nors-ouest et arrivent à Lodi  , ville située à 31 kilomètres au sud-est de Milan. Ils y découvrent le point faible qu’ils cherchent : un pont, intact, y relie la ville à la rive gauche de l’Adda [ce pont, détruit en 1859, se situait 50 mètres en amont du pont actuel qui se trouve à 45.31915, 9.50862] :\n\nL'actuel pont sur l'Adda à Lodi\nL'actuel pont de Lodi\nL’ouvrage, large de douze mètres et long de près de deux-cents (cent toises), vient de servir à faire traverser la rivière aux ultimes détachements autrichiens se trouvant encore sur la rive droite de l’Adda. Il est défendu par l’arrière-garde autrichienne, commandée par le général Karl Philipp Sebottendorf, et si ce dernier n’a toujours pas donné l’ordre de le détruire, c’est que les Autrichiens sont loin de s’attendre à subir si vite une attaque sérieuse des Français.\n\nMais Bonaparte, bien au contraire, croyant Beaulieu présent avec toutes ses forces derrière Lodi, veut passer à tout prix pour l’empêcher de s’enfuir."
       },
       "victoire": true
     },
@@ -49,7 +52,9 @@
       "description": {
         "dateLieu" : "12 avril 1796 à Montenotte Superiore, en Ligurie (actuellement commune de Cairo-Montenotte, province de Savona, Italie) ; 13 avril à Millesimo et Cosseria ; 14 et 15 avril à Dego.",
         "forcePresentes" : "Armée française (20 000 hommes) commandée par le général Napoléon Bonaparte. \nArmées d'Autriche et du Royaume de Sardaigne (environ 25 000 hommes) sous les ordres du général en chef Johann von Beaulieu et des généraux Eugène Guillaume de Mercy d’Argenteau et Giovanni Provera.",
-        "pertes" : "Armée française : autour de 5 000 morts, blessés ou disparus. \nArmées d'Autriche et du Royaume de Sardaigne : environ 10 000 morts, blessés, disparus ou prisonniers, 40 canons"
+        "pertes" : "Armée française : autour de 5 000 morts, blessés ou disparus. \nArmées d'Autriche et du Royaume de Sardaigne : environ 10 000 morts, blessés, disparus ou prisonniers, 40 canons",
+        "situationGenerale" :""
+
       },
 
       "victoire": true
@@ -63,7 +68,10 @@
       "description": {
         "dateLieu" : "14 et 15 janvier 1797, aux environs de Rivoli Veronese en Vénétie (de nos jours dans la province de Vérone, en Italie).",
         "forcePresentes" : "Armée française (19 000 à 22 000 hommes selon les sources), 30 à 60 canons, sous le commandement du général Napoléon Bonaparte. \nArmée autrichienne (28 000 hommes), 90 canons, sous les ordres du baron Josef Alvinczy von Borberek. ",
-        "pertes" : "Armée française : 2 200 hommes tués ou blessés, 1 000 prisonniers \nArmée autrichienne : 4 000 hommes tués ou blessés, 8 à 10 000 prisonniers, 8 canons, 11 drapeaux"
+        "pertes" : "Armée française : 2 200 hommes tués ou blessés, 1 000 prisonniers \nArmée autrichienne : 4 000 hommes tués ou blessés, 8 à 10 000 prisonniers, 8 canons, 11 drapeaux",
+        "situationGenerale" :"Situation générale\nMalgré leur défaite d’Arcole  en novembre 1796, les Autrichiens sont toujours décidés, au début de l’année suivante, à consentir tous les efforts nécessaires pour délivrer la ville de Mantoue [Mantova] , assiégée depuis sept mois, et où le général Dagobert Sigmund von Wurmser s’est enfermé après la bataille de Bassano .\n\nLa cité , forte d’une garnison de près de 30 000 hommes, constitue en effet la clé de l’Italie du Nord et seule sa résistance empêche l’armée française de poursuivre son offensive vers l’Autriche, comme l’avenir le prouvera bientôt.\n\nC’est donc sous l’aiguillon d’une impérieuse nécessité que l’Autriche parvient, en deux mois à peine, à mettre sur pied une nouvelle armée de 45 000 hommes, qu’elle confie comme la précédente au général Josef Alvinczy von Borberek.\n\nCelui-ci divise ses forces en trois unités d’effectifs inégaux. Les deux premières, comptant 17 000 soldats en tout, sous Adam Bajalics von Bajaháza et Giovanni Provera, se dirigent respectivement, depuis la Brenta, vers Vérone [Verona]  et Legnago , sur le cours inférieur de l’Adige .\n\nLa vallée de l'Adige, non loin de de Rivoli Veronese\nLa vallée de l'Adige, non loin de de Rivoli Veronese\nElles ont pour mission essentielle d’attirer l’attention de Bonaparte vers la plaine tandis que la troisième unité, forte de 28 000 hommes sous le commandement direct d’Alvinczy, se chargera de l’attaque principale, à Rivoli Veronese .\n\nUne fois cette position conquise, ces trois corps convergeront vers Mantoue d’où Wurmser, prévenu de leur arrivée, sortira à leur rencontre. La réunion de toutes leurs troupes donnera aux Autrichiens une nette supériorité numérique.\n\nEn face, les Français disposent de 42 000 hommes environ, dont 7 000 reçus en renfort après Arcole. Ils sont organisés en cinq divisions :\n\nCelle de Barthélemy Catherine Joubert  occupe pour l’heure la position de Rivoli , au nord de laquelle elle s’est avancée d’une dizaine de kilomètres jusqu’à La Corona [Madonna della Corona]\nAndré Masséna défend Vérone\nCharles Augereau couvre Legnago \nJean-Mathieu Philibert Sérurier bloque Mantoue\nle général Gabriel Venance Rey  stationne à Desenzano  avec une division de réserve, moins nombreuse que les quatre autres.\nBonaparte lui-même se tient au centre du dispositif, prêt à intervenir au plus vite en tout point, selon le besoin."
+
+
       },
       "victoire": true
     },
@@ -76,7 +84,9 @@
       "description": {
         "dateLieu" : "16 janvier 1797, à La Favorite, près de Mantoue, dans le nord de l’Italie.",
         "forcePresentes" : "Armée française (environ 15 000 hommes) sous le commandement du général Napoléon Bonaparte. \nArmée autrichienne (environ 15 000 hommes) sous les ordres des généraux Dagobert Sigismund von Wurmser et Giovanni Provera. ",
-        "pertes" : "Armée française : 1 200 hommes tués ou blessés, 1800 prisonniers \nArmée autrichienne : 1 300 hommes tués ou blessés, 4 700 prisonniers, 22 canons "
+        "pertes" : "Armée française : 1 200 hommes tués ou blessés, 1800 prisonniers \nArmée autrichienne : 1 300 hommes tués ou blessés, 4 700 prisonniers, 22 canons ",
+        "situationGenerale" : "Le général autrichien Dagobert Sigismund von Wurmser, bloqué dans Mantoue [Mantova]  par les troupes françaises depuis août 1796, tente le 16 janvier 1797 une sortie, combinée avec l’arrivée d’une colonne de secours sous le commandement du général Giovanni Provera.\n\nProvera dispose de 6 à 7 000 hommes. Wurmser de 8 à 10 000. Entre eux, le général Jean-Mathieu Philibert Sérurier ne pouvait leur en opposer, le 15 janvier, que 6 000.\n\nMais au lieu de profiter immédiatement de leur supériorité numérique, les généraux autrichiens préfèrent attendre le lendemain pour engager le combat. Probablement sont-ils persuadés que Napoléon Bonaparte, qui est impliqué depuis la veille dans une bataille contre le gros des forces du général en chef autrichien Josef Alvinczy von Borberek, près de Rivoli Veronese  à soixante kilomètres au nord, ne pourra pas intervenir à temps.\n\nCette erreur d’appréciation va leur coûter cher."
+
       },
       "victoire": true
     },
@@ -89,7 +99,9 @@
       "description": {
         "dateLieu" : "14 juin 1807 à Friedland in Ostpreußen [de nos jours Pravdinsk, province de Kaliningrad, en Russie], à trente kilomètres à l'est d'Eylau.",
         "forcePresentes" : "Grande Armée (66 000 hommes) sous le commandement du maréchal Jean Lannes, puis de l'Empereur Napoléon 1er. \nArmée russe (84 000 hommes) commandée par le général Levin August Gottlieb Theophil (Leonty Leontyevich), comte von Bennigsen. ",
-        "pertes" : "Grande Armée : 1 645 morts, 8 995 blessés, 2 426 prisonniers, 400 disparus. \nArmée russe : autour de 15 000 morts ou blessés, 10 000 prisonniers, 80 canons, 70 drapeaux. "
+        "pertes" : "Grande Armée : 1 645 morts, 8 995 blessés, 2 426 prisonniers, 400 disparus. \nArmée russe : autour de 15 000 morts ou blessés, 10 000 prisonniers, 80 canons, 70 drapeaux. ",
+        "situationGenerale" : "Le 26 mai 1807, près de quatre mois après la bataille d'Eylau, alors que l'été continental s'est installé sur les bords de la mer Baltique , la Grande Armée se remet en marche.\n\nNapoléon 1er la dirige vers Königsberg [aujourd'hui Kaliningrad - Калининград], que le général en chef russe Levin August Gottlieb Theophil, comte von Bennigsen (Леонтий Леонтьевич Беннигсен) décide de défendre.\n\nKönigsberg : les bords du Pregel\nKönigsberg [Kaliningrad] : les bords du fleuve Pregel [Pregolia]. Photo de Floriane Grau\nC'est que les nombreux dépôts et magasins qui s'y trouvent sont d'une importance vitale pour le ravitaillement de ses troupes. Résolus à protéger la ville, les Russes prennent l'offensive."
+
       },
       "victoire": true
     },
@@ -104,7 +116,7 @@
         "forcePresentes" : "",
         "pertes" : ""
       },
-      "victoire": true
+      "victoire": false
     },
     {
       "id": "9",
@@ -117,7 +129,7 @@
         "forcePresentes" : "",
         "pertes" : ""
       },
-      "victoire": true
+      "victoire": false
     },
     {
       "id": "10",
