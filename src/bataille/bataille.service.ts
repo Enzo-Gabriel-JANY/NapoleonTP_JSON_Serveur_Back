@@ -22,11 +22,13 @@ export class BatailleService {
     }
 
     async create(bataille: Bataille): Promise<void> {
+
         await firstValueFrom(this.http.post(this.baseUrl, bataille));
     }
 
     async delete(id: number | string) {
-        const url = `http://localhost:5000/bataille/${id}`;
+        const url = `http://localhost:5000/bataille/${id.toString()}`;  // Convertir l'ID en chaîne
+        console.log('Suppression demandée pour ID :', id);
         try {
             await this.http.delete(url).toPromise();
             return { message: `Bataille ${id} supprimée.` };
@@ -37,8 +39,12 @@ export class BatailleService {
             throw error;
         }
     }
-
-    async update(id:number):Promise<void>{
-        await firstValueFrom(this.http.put(`${this.baseUrl}/${id}`));
+    async update(bataille: Bataille): Promise<void> {
+        try {
+            console.log(bataille);
+            await firstValueFrom(this.http.put(`${this.baseUrl}/${bataille.id.toString()}`, bataille));
+        } catch (error) {
+            throw error;
+        }
     }
 }

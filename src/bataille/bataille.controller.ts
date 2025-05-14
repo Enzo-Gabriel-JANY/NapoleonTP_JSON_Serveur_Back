@@ -45,7 +45,7 @@ export class BatailleController {
         try {
             // Log les données reçues
             console.log('Données reçues :', bataille);
-
+            bataille.id = bataille.id.toString()
             // Validation de la date (si nécessaire)
             const date = new Date(bataille.date);
             if (isNaN(date.getTime())) {
@@ -69,18 +69,21 @@ export class BatailleController {
     @Delete(':id')
     async delete(@Param('id') id: string, @Res() res: Response): Promise<Response> {
         try {
-            console.log('Type et valeur de id reçu :', typeof id, id); // 👈 AJOUTE ÇA
-
-            const numericId = Number(id);
-            if (isNaN(numericId)) {
+            if (!id || typeof id !== 'string') {
                 throw new BadRequestException('ID invalide');
             }
 
-            await this.batailleService.delete(numericId);
+            // Conversion interne si nécessaire
+            const numericId = Number(id)
+            if (isNaN(numericId)) {
+                throw new BadRequestException('ID numérique invalide');
+            }
+
+            await this.batailleService.delete(id); // ou numericId, selon comment tu stockes
 
             return res.status(HttpStatus.OK).json({
                 status: 'success',
-                message: `Bataille avec l'id ${numericId} supprimée`,
+                message: `Bataille avec l'id ${id} supprimée`,
             });
         } catch (error) {
             console.error('Erreur lors de la suppression :', error);
@@ -92,9 +95,10 @@ export class BatailleController {
         }
     }
     @Put(':id')
-    async put(@Param('id') id : String , @Res() res:Response) : Promise<Response>{
+    async put(@Param('id') id : Number , @Res() res:Response , @Body() bataille: Bataille) : Promise<Response>{
         try{
-            await this.batailleService.update(Number('id'));
+
+            await this.batailleService.update(bataille);
             return res.status(HttpStatus.OK).json({
                 status: 'success',
                 message: `Bataille avec l'id ${id} modifier`,

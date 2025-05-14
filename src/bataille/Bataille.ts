@@ -41,9 +41,9 @@ export class Description {
 }
 
 export class Bataille {
-    @IsNumber()
+
     @IsNotEmpty()
-    id: number;
+    id: string;
 
     @IsString()
     @IsNotEmpty()
@@ -74,7 +74,7 @@ export class Bataille {
     description: Description;
 
     constructor(
-        id: number,
+        id: string,
         lieu: string,
         nom: string,
         date: Date,
